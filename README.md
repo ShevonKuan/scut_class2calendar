@@ -18,4 +18,4 @@
 改为
 `大学物理实验(二)/2-16周(双)/五山校区 未排地点//(2020-2021-2)-041101051-116/19轻化工程2班;19资源环境科学/1`
 效果:
-![](https://git.shevonpeng.cn/shevonkuan/scut_class2calendar/raw/branch/master/final.png)
+![](https://github.com/ShevonKuan/scut_class2calendar/blob/master/final.png)
